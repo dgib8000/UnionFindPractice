@@ -29,3 +29,12 @@ public class QuickUW
 	}
 	
 }
+
+/* Program 1.4 Path compression by halving
+ * 
+ * for ( i = p; i != id[i]; i =n id[i])
+ * 		id[i] = id[id[i]];
+ * for (j = q; j != id[j]; j = id[j])
+ * 		id[j] = id[id[j]];
+ * */
+ */
